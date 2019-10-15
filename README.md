@@ -1,5 +1,5 @@
 # recommendation-system-with-word2vec-and-streamlit
-!IMPORTANT! Git hub has rejeted the database due to its size. A link where you will be able to download it is coming soon.
+!IMPORTANT! Git hub has rejeted the database due to its size. A link to where you will be able to download it is coming soon.
 
 step1 - Install Streamlit (see https://streamlit.io/docs/index.html)
 
