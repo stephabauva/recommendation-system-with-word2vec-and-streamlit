@@ -7,7 +7,7 @@ step 2 - Clone this repository and add the database downloaded above
 
 step 3 - Using your terminal, navigate to the directory containing the app.py file
 
-step 4 - Type the following in your terminal: streamlit run app.py
+step 4 - Type the following in your terminal: streamlit run app_reco_v3.py
 
 On the app you can allow (choose to check or uncheck) the two recommendations on the sidebar. 
 The first one recommends items based on one individual input item. 
