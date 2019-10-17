@@ -7,7 +7,8 @@ step 2 - Clone this repository and add the database downloaded above
 
 step 3 - Using your terminal, navigate to the directory containing the app.py file
 
-step 4 - Type the following in your terminal: streamlit run app_reco_v3.py
+step 4 - Type the following in your terminal: 
+```streamlit run app_reco_v3.py```
 
 Your browser should automatically open, otherwise copy-paste the localhost address in your browser.
 
