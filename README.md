@@ -1,13 +1,13 @@
 # recommendation-system-with-word2vec-and-streamlit
 Download the database at https://www.kaggle.com/steph2019/customers-purchases-with-product-id
 
-step1 - Install Streamlit (see https://streamlit.io/docs/index.html)
+step 1 - Install Streamlit (see https://streamlit.io/docs/index.html)
 
-step2 - Clone this repository and add the database downloaded above
+step 2 - Clone this repository and add the database downloaded above
 
-step3 - Using your terminal, navigate to the directory containing the app.py file
+step 3 - Using your terminal, navigate to the directory containing the app.py file
 
-step4 - Type the following in your terminal: streamlit run app.py
+step 4 - Type the following in your terminal: streamlit run app.py
 
 On the app you can allow (choose to check or uncheck) the two recommendations on the sidebar. 
 The first one recommends items based on one individual input item. 
