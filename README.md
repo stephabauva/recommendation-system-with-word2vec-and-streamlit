@@ -1,14 +1,14 @@
 # recommendation-system-with-word2vec-and-streamlit
-Download the database at https://www.kaggle.com/steph2019/customers-purchases-with-product-id
+step 1 - Download the database at https://www.kaggle.com/steph2019/customers-purchases-with-product-id
 
-step 1 - Clone this repository and add the database downloaded above
+step 2 - Clone this repository and add the database downloaded above
 
-step 2 - Navigate in the folder where you cloned the directory and enter 
+step 3 - Navigate in the folder where you cloned the directory and enter 
 ```pip3 install -r requirements.txt```
 
-step 3 - Using your terminal, navigate to the directory containing the app.py file
+step 4 - Using your terminal, navigate to the directory containing the app.py file
 
-step 4 - Type the following in your terminal: 
+step 5 - Type the following in your terminal: 
 ```streamlit run app_reco_v3.py```
 
 Your browser should automatically open, otherwise copy-paste the localhost address in your browser.
