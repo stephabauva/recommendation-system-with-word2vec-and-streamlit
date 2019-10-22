@@ -4,7 +4,7 @@ Download the database at https://www.kaggle.com/steph2019/customers-purchases-wi
 step 1 - Clone this repository and add the database downloaded above
 
 step 2 - Navigate in the folder where you cloned the directory and enter 
-```pip3 install requirements.txt```
+```pip3 install -r requirements.txt```
 
 step 3 - Using your terminal, navigate to the directory containing the app.py file
 
