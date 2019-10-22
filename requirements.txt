@@ -3,7 +3,7 @@ pytest-shutil
 pandas
 numpy
 tqdm
-sklearn-learn
+sklearn
 Google-Images-Search
 matplotlib
 google_images_download
