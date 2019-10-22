@@ -29,11 +29,10 @@ from PIL import Image
 from resizeimage import resizeimage
 import time
 
-os.chdir('/Users/Stef/Documents/simplon/streamlit/recommendation_system')
 
 st.title('Recommendation system app')
 
-data = ('/Users/Stef/Documents/simplon/streamlit/recommendation_system/df2.csv')
+data = ('df2.csv')
 "THE DATABASE"
 
 @st.cache
@@ -45,7 +44,7 @@ df = load_data(5000)
 st.dataframe(df)
 
 #load pre_trained model
-open_model = open('/Users/Stef/Documents/simplon/streamlit/recommendation_system/Rec_sys_model.pkl','rb')
+open_model = open('Rec_sys_model.pkl','rb')
 model = joblib.load(open_model)
 
 #As we do not plan to train the model any further, we are calling init_sims(), which will make the model much more memory-efficient.
@@ -57,7 +56,7 @@ X = model[model.wv.vocab]
 ###UMAP
 
 #create a product-ID and product-description dictionary to easily map a product's description to its ID and vice versa
-train_df = pd.read_csv("/Users/Stef/Documents/simplon/streamlit/recommendation_system/train_df.csv")
+train_df = pd.read_csv("train_df.csv")
 
 products = train_df[["StockCode", "Description"]]
 
