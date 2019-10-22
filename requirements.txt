@@ -2,13 +2,12 @@ streamlit
 pytest-shutil
 pandas
 numpy
-random
 tqdm
-#pickle
 sklearn-learn
 Google-Images-Search
 matplotlib
 google_images_download
-Pillow
+#Pillow
 python-resize-image
 joblib
+gensim
