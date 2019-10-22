@@ -33,7 +33,7 @@ os.chdir('/Users/Stef/Documents/simplon/streamlit/recommendation_system')
 
 st.title('Recommendation system app')
 
-data = ('/Users/Stef/Documents/simplon/streamlit/recommendation_system/df2.csv')
+data = ('/Users/Stef/Documents/simplon/streamlit/recommendation_system/df.csv')
 "THE DATABASE"
 
 @st.cache
