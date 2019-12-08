@@ -17,7 +17,3 @@ On the app you can allow (check or uncheck) the two recommendations on the sideb
 The first one recommends items based on one individual input item. 
 The second that comes with a slider, does some recommendations based on all a customer's purchases. Each number on the slider is an individual customer.
 Then, the algorithm downloads those items's pictures on Google Image and show you what the recommendations look like (might take a minute).
- 
- 
- 
- 
