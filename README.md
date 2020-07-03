@@ -8,7 +8,7 @@ step 3 - Unzip the folder and add the two datasets to the repository you've just
 step 4 - In your terminal, navigate to the repository and enter 
 ```pip3 install -r requirements.txt```
 
-step 5 - Type the following in your terminal tu run the app: 
+step 5 - Type the following in your terminal to run the app: 
 ```streamlit run app_reco_v3.py```
 
 Your browser should automatically open, otherwise copy-paste the localhost address in your browser.
