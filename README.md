@@ -3,7 +3,7 @@ step 1 - Download df2 and train_df datastes at https://www.kaggle.com/steph2019/
 
 step 2 - Clone this repository 
 
-step 3 - Unzip the folder and add the two datasets to the repository you've just cloned
+step 3 - Add the two datasets to the repository you've just cloned
 
 step 4 - In your terminal, navigate to the repository and enter 
 ```pip3 install -r requirements.txt```
